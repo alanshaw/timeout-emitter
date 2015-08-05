@@ -1,0 +1,27 @@
+{
+  "name": "timeout-emitter",
+  "version": "0.0.0",
+  "description": "Set a timeout that emits an expire or clear event when timeout is reached or .clear() is called",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/timeout-emitter.git"
+  },
+  "keywords": [
+    "timeout",
+    "setTimeout",
+    "emit",
+    "event",
+    "emitter",
+    "timer"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanshaw/timeout-emitter/issues"
+  },
+  "homepage": "https://github.com/alanshaw/timeout-emitter#readme"
+}
