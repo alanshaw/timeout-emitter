@@ -1,6 +1,6 @@
 {
   "name": "timeout-emitter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Set a timeout that emits an expire or clear event when timeout is reached or .clear() is called",
   "main": "index.js",
   "scripts": {
